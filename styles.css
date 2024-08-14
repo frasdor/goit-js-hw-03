@@ -40,3 +40,6 @@ a {
 a:hover {
     background-color: #0056b3;
 }
+.btn.btn-primary.btn-lg {
+    background-color: #852092;
+}
